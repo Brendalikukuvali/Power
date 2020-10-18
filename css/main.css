@@ -1,0 +1,55 @@
+body{
+	background-color: white;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  margin-left: 600px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-top: 0px;
+  font-size: 20px;
+}
+
+.arrow{
+	background-color: #103063;
+	width: 150px;
+	height: 80px;
+	margin-left: 0px;
+}
+
+.home{
+	background-color:#f7b525;
+	width: 150px;
+	height: 80px;
+	float: right;
+	margin-right: 1040px;
+	margin-top: -80px;
+}
+
+.bill{
+	background-color: #103063;
+	width: 250px;
+	height: 80px;
+	float: right;
+	margin-right: 785px;
+	margin-top: -80px;
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.cont{
+	background-color: #103063;
+	height: 50px;
+	color:#f5b52a;
+	padding-top: 5px;
+	padding-left: 20px;
+
+}
